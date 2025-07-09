@@ -1,0 +1,1 @@
+This folder contains the dataset (`blood.csv`) or instructions to download it.
